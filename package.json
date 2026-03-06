@@ -1,0 +1,17 @@
+{
+  "name": "oxford-imps-music-conventions",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.4",
+    "@vitejs/plugin-vue-jsx": "^5.1.4",
+    "vite": "^7.3.1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.5.29"
+  }
+}

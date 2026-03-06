@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main, header {
+  position: relative;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span.cat {
+  border-radius: 0.5em;
+  border: solid 1px;
+  padding: 0.1em 0.2em;
+  margin-right: 0.5em;
+}
+
+span.cat-music {
+  background-color: #afc6f1;
+  border-color: #052c75;
+}
+
+span.cat-guessing {
+  background-color: #f1d9af;
+  border-color: #b08100;
+}
+
+span.cat-longform {
+  background-color: #f1afc6;
+  border-color: #b00041;
+}
+
+span.cat-scene {
+  background-color: #aff1b6;
+  border-color: #00b006;
+}
+
+span.cat-punning {
+  background-color: #dcaff1;
+  border-color: #b000b0;
+}
