@@ -5,6 +5,8 @@ export const description = (
     about them. The imps sing and improvised love song to them.
     <br />
     Play something romantic. Same structure as e.g. charity single.
+    <br />
+    Seems to be easiest to sing to if in major key, not too fast.
   </>
 );
 export const category = "music";

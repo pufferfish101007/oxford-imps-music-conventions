@@ -1,6 +1,6 @@
 export const name = 'Doo Run';
 export const description = <>
-Vamp on G when fronter first mentions song; keep vamping between rounds when people are killed. <br/>
+Vamp on G(? sometimes that's too high) when fronter first mentions song; keep vamping between rounds when people are killed. <br/>
 Bass line 1-3-5-3 throughout. <br/>
 Chords:
 <ul>
